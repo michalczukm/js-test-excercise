@@ -14,4 +14,11 @@ Libraries you'll use - up to you. But try to be kind and use `fetch` to retreive
 * details: `https://isa-simple-rest-api.herokuapp.com/api/users/{id}`, where `id` is id of the user
 
 ## How to deliver the solution
-Please fork this repository and send us a link to fork :) 
+Please fork this repository and send us a link to fork :blush:
+
+### OR
+Send solution as fiddle. I advice you to use something from the following list:
+
+* http://plnkr.co/
+* https://jsfiddle.net/
+* https://codepen.io/
